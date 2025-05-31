@@ -25,3 +25,6 @@
 **TCSAFLUSH.** "Timing" flag used in `tcsetattr()`. Wait for pending output to be written and discard unread input.
 
 **struct.** Simple custom data type that holds multiple related values. Similar to object in JavaScript, but without functions or methods.
+
+## Course Source
+https://viewsourcecode.org/snaptoken/kilo/
